@@ -1,0 +1,14 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Nick DeNardis -- Owner & Host -- @nickdenardis
+
+# THANKS
+
+    George Sackett -- @George
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
