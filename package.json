@@ -1,0 +1,12 @@
+{
+  "name": "educheckup",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nickdenardis/educheckup.git",
+  "author": "Nick DeNardis <nick.denardis@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "serve": "cd public && python3 -m http.server 8080",
+    "deploy": "./deploy.sh"
+  }
+}
